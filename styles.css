@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.imageContainer {
+	width:1100px
+	padding:4px;
+	background-color: #a6a896;
+}
+.column-text{
+	width:600px
+	height:300px;
+}
+.small-image{
+	
+	width:200px;
+}
+.column-text{
+	width:600px;
+}
+.small-imag{
+	height:200px;
+	width:500px;
+}
